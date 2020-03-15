@@ -1,0 +1,14 @@
+
+-@posts.each do |post|
+
+ %h2= link_to post.title, post
+ %p
+  Published at
+  = time_ago_in_words(post.created_at)
+ 
+  = post.user.email
+
+  <a= image_tag(link_to(post.image))>
+  /= post.likes.count = (post.likes.count) == 1 ? 'Like' : 'Likes'
+  = post.likes.count 
+  = (post.likes.count) == 1 ? 'Like' : 'Likes'

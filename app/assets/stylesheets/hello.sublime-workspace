@@ -1,0 +1,279 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"posts"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"eac",
+				"eac-\teach_cons(..) { |group| .. }"
+			],
+			[
+				"post",
+				"post_params"
+			],
+			[
+				"lin",
+				"linpp\tlink_to (nested path plural)"
+			],
+			[
+				"Pos",
+				"edit_post_path"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminu",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:isn",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Preferences: Terminal Key Bindings – User"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/arun/ruby-2.5.7/Instapot/app/assets/stylesheets/hello.rb",
+		"/home/arun/ruby-2.5.7/Instapot/app/assets/stylesheets/hell",
+		"/home/arun/ruby-2.5.7/Instapot/app/views/layouts/application.html.haml",
+		"/home/arun/ruby-2.5.7/Instapot/app/controllers/posts_controller.rb",
+		"/home/arun/ruby-2.5.7/Instapot/app/assets/stylesheets/application.css.scss",
+		"/home/arun/ruby-2.5.7/Instapot/Gemfile",
+		"/home/arun/ruby-2.5.7/Mproject/app/views/posts/show.html.haml",
+		"/home/arun/ruby-2.5.7/Mproject/db/seeds.rb",
+		"/home/arun/ruby-2.5.7/Mproject/app/assets/stylesheets/application.css.scss",
+		"/home/arun/ruby-2.5.7/Mproject/app/models/post.rb",
+		"/home/arun/ruby-2.5.7/Mproject/config/environment.rb",
+		"/home/arun/ruby-2.5.7/Mproject/Gemfile",
+		"/home/arun/ruby-2.5.7/Mproject/image.jpg",
+		"/home/arun/ruby-2.5.7/Mproject/image",
+		"/home/arun/ruby-2.5.7/Mproject/app/views/posts/index.html.haml",
+		"/home/arun/ruby-2.5.7/Mproject/config/routes.rb",
+		"/home/arun/ruby-2.5.7/Mproject/app/controllers/posts_controller.rb",
+		"/home/arun/ruby-2.5.7/Mproject/config/environments/development.rb",
+		"/home/arun/ruby-2.5.7/Mproject/app/models/user.rb",
+		"/home/arun/ruby-2.5.7/Mproject/app/controllers/comments_controller.rb",
+		"/home/arun/ruby-2.5.7/Mproject/app/views/posts/new.html.haml",
+		"/home/arun/ruby-2.5.7/Mproject/app/views/posts/_form.html.haml",
+		"/home/arun/ruby-2.5.7/Mproject/app/views/comments/edit.html.haml",
+		"/home/arun/ruby-2.5.7/Mproject/app/views/comments/_comment.html.haml",
+		"/home/arun/ruby-2.5.7/Final/app/views/posts/index.html.haml",
+		"/home/arun/ruby-2.5.7/Final/app/views/posts/_form.html.haml",
+		"/home/arun/ruby-2.5.7/Final/app/models/post.rb",
+		"/home/arun/ruby-2.5.7/Final/config/routes.rb",
+		"/home/arun/ruby-2.5.7/Final/db/migrate/20200226162054_create_posts.rb",
+		"/home/arun/ruby-2.5.7/Final/Gemfile",
+		"/home/arun/ruby-2.5.7/Final/app/assets/javascripts/application.js",
+		"/home/arun/ruby-2.5.7/Final/app/views/posts/show.html.haml",
+		"/home/arun/ruby-2.5.7/Final/app/controllers/posts_controller.rb",
+		"/home/arun/ruby-2.5.7/Final/app/assets/stylesheets/application.css.scss",
+		"/home/arun/ruby-2.5.7/Final/app/controllers/comments_controller.rb",
+		"/home/arun/ruby-2.5.7/Final/app/models/user.rb",
+		"/home/arun/ruby-2.5.7/Final/app/models/comment.rb",
+		"/home/arun/ruby-2.5.7/Final/app/views/comments/_comment.html.haml",
+		"/home/arun/ruby-2.5.7/Final/app/views/comments/_form.html.haml",
+		"/home/arun/ruby-2.5.7/Final/app/views/comments/edit.html.haml",
+		"/home/arun/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/arun/ruby-2.5.7/Mproject/app/views/comments/_form.html.haml",
+		"/home/arun/ruby-2.5.7/Mproject/app/views/comments/new.html.haml",
+		"/home/arun/ruby-2.5.7/Mproject/app/views/layouts/application.html.haml",
+		"/home/arun/ruby-2.5.7/Mproject/db/schema.rb",
+		"/home/arun/ruby-2.5.7/Mproject/db/migrate/20200226202617_devise_create_users.rb",
+		"/home/arun/ruby-2.5.7/Mproject/app/views/posts/edit.html.haml",
+		"/home/arun/ruby-2.5.7/Rorproject/Gemfile",
+		"/home/arun/ruby-2.5.7/Rorproject/app/models/pic.rb",
+		"/home/arun/ruby-2.5.7/Rorproject/app/models/application_record.rb",
+		"/home/arun/ruby-2.5.7/Rorproject/db/migrate/20200223200115_create_pics.rb",
+		"/home/arun/ruby-2.5.7/Rorproject/app/assets/config/manifest.js",
+		"/home/arun/ruby-2.5.7/R_project/config/routes.rb",
+		"/home/arun/ruby-2.5.7/R_project/app/controllers/pages_controller.rb",
+		"/home/arun/ruby-2.5.7/R_project/app/controllers/R_project_controller.rb",
+		"/home/arun/ruby-2.5.7/R_project/app/controllers/concerns/R_project_Controller.rb",
+		"/home/arun/ruby-2.5.7/Project/app/assets/config/manifest.js",
+		"/home/arun/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/arun/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hello.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
